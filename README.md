@@ -1,9 +1,6 @@
 # WebScraperAPI
 ASP.NET CORE WEB API that scraps HTML Content from a Website 
 
-Certainly, here's a basic template for a README file for your web scraping API. You can customize and expand upon it to provide comprehensive documentation for your users and developers:
-
-```markdown
 # SASSA Web Scraping API
 
 The SASSA Web Scraping API is a simple API for extracting specific data from the South African Social Security Agency (SASSA) website. This API allows you to retrieve data from the SASSA website using a single endpoint.
